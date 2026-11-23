@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://developerxteam2018.github.io/endjaz/sitemap.xml
